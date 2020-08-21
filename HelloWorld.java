@@ -1,8 +1,14 @@
 public class HelloWorld{
   public static void main(String args[]){
-    System.out.print("iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii----------------------------------------------iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii----------iiiii------------------------iiiii-----------iiiiiiiiiiiiiiiiiiiiiiiiiiiiiii------------iiiii------------------------iiiii--------------iiiiiiiiiiiiiiiiiiiiiiiiiiii------------------------------------------------------------iiiiiiiiiiiiiiiiiiiiiiiiiiii------------------------------------------------------------iiiiiiiiiiiiiiiiiiiiiiiiiiii----------------ii--------------------------ii--------------iiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------iiiiiii--------------iiiiiii-------------iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii------------------iiiiiiiiiiiiiiii----------------iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii------------------------------------iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
+    System.out.println("8888888888");
 
-
+  
+    System.out.println("888----888");
+    System.out.println("888----888");
+    System.out.println("888----888");
+    System.out.println("888----888");
+    System.out.println("8888888888");
+  
   }
 
 
